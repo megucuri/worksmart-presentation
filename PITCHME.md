@@ -231,6 +231,7 @@ SPとPCを確認する段階になる。
 +++
 
 Dont' work hard, work smart.
+<smnall>(一生懸命働くより賢く働く)</small>
 
 +++
 
