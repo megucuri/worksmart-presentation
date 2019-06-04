@@ -76,6 +76,7 @@ https://support.apple.com/ja-jp/HT201236
 #### Chrome
 @ul[](false)
 - ⌘ + リンクをクリック = 新しいタブを開く
+- ⌘ + ←,→ = ページを戻る・次へ
 - ⌘ + option + ←,→ = タブの切り替え
 - ⌘ + shit + t = 閉じたタブを開く<small>シークレットモードで使えない</small>
 - ⌘ + l = アドレスバーをハイライト
