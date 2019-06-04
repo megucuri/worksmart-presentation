@@ -79,8 +79,8 @@ https://support.apple.com/ja-jp/HT201236
 - ⌘ + ←,→ = ページを戻る・次へ
 - ⌘ + option + ←,→ = タブの切り替え
 - ⌘ + shit + t = 閉じたタブを開く<small>シークレットモードで使えない</small>
+- アドレスバーにURLを入力 + ⌘ + shit + enter = 入力したURLで新しいタブが開く
 - ⌘ + l = アドレスバーをハイライト
-- アドレスバーをハイライト + ⌘ + enter = 同じ<br>アドレスで新タブが開く
 - option + ↑,↓ = スクロール
 @ulend
 
