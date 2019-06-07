@@ -64,12 +64,9 @@
 
 +++
 
+### トレーニング 0.5 (5分)
+
 ![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=110)
-
-+++
-- トレーニング 0.5 (5分)
-
-![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=112)
 
 ---
 
