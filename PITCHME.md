@@ -302,11 +302,11 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-@color[#44AB7E](別の視点)からのやり方が<br>見れるようになるかもしれません。
+@color[#55D49E](別の視点)からのやり方が<br>見れるようになるかもしれません。
 
 +++
 
-Dont' work hard, work smart.
+#### Dont' work hard, work smart.
 <smnall>(一生懸命より賢く働こう)</small>
 
 +++
