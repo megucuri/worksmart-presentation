@@ -105,7 +105,6 @@ https://support.apple.com/ja-jp/HT201236
 - ⌘ + option + ←,→ = タブの切り替え
 - ⌘ + shift + t = 閉じたタブを開く<small>シークレットモードで使えない</small>
 - ⌘ + l = アドレスバーをハイライト
-- アドレスバーにURLを入力 <br>+ ⌘ + shit + enter = 入力したURLで新しいタブが開く
 @ulend
 
 +++
@@ -158,7 +157,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=52)
+![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=45)
 
 ---
 
