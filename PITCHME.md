@@ -89,6 +89,7 @@
 - ⌘ + enter = 送信する・提出など
 - ⌘ + shift/option + ←,→ = タブの切り替え
 - ctrl + ←,→ = スクリーンの移動
+- ⌘ + space = spotlightを開く
 - ⌘ + w = タブを閉じる
 - ⌘ + q = アプリを閉じる
 - ⌘ + shift + 5 = スクリーンを録画
@@ -96,7 +97,7 @@
 
 +++
 
-#### macショートカットキーの一覧
+#### macショートカットキー
 https://support.apple.com/ja-jp/HT201236
 
 +++
@@ -112,7 +113,7 @@ https://support.apple.com/ja-jp/HT201236
 @ulend
 
 +++
-##### Chromeショートカットキー一覧
+##### Chromeショートカットキー
 https://qiita.com/fantm21/items/430a1486132c8938ae1e
 
 +++
@@ -129,7 +130,7 @@ https://qiita.com/fantm21/items/430a1486132c8938ae1e
 
 +++
 
-##### Dev Toolショートカットキー一覧
+##### Dev Toolショートカットキー
 https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 
 +++
@@ -138,16 +139,16 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 @ul[](false)
 - ⌘ + p = ファイルを開くモードにする<small>同じファイルがある時注意! 特にwocker</small>
 - ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
-- ⌘ + "[" , "]" = 行のどこからでもインデントを直す
+- ⌘ + "[" , "]" = 行の中でもインデントを直せる
 - option + z = ワードラップの切り替え
-- shift + option + ↑,↓ = 一行をコピペ
+- option+ shift + ↑,↓ = 一行をコピペ
 - ctrl + shift + @ = ターミナルを開く
-- ctrl + option + ⌘ + ¥  = 新しいターミナルを<br>コラムで開く
+- ⌘ + ctrl + option + ¥  = 新しいターミナルを<br>コラムで開く
 @ulend
 
 +++
 
-VCS ショートカットキー 一覧
+##### VCS ショートカットキー 一覧
 https://qiita.com/12345/items/64f4372fbca041e949d0
 
 +++
@@ -165,11 +166,39 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 ---
 
-### デザイン、指示、確認を<br>早くするための手順
+### デザイン、指示、確認の手順を<br>早くするためのコツ
 
 +++
 
-モバイルファースト！！！
+Repeat after me<br><small>私の後に繰り返して</small>
+
++++
+
+ワイヤーとデザイン作り♪
+
++++
+
+# モバイルファースト！！！
+
++++
+
+サイトのリニューアル♬
+
++++
+
+# モバイルファースト！！！
+
++++
+
+修正の指示とコーディング♪
+
++++
+
+# モバイルファースト！！！
+
++++
+
+子供の世話とトイレはモバイルにさ--よ-なら---
 
 +++
 
