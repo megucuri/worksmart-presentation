@@ -62,7 +62,11 @@
 
 ---
 
-## ショートカットキー
+## スピードを上げるための「ワザ」
+
+---
+
+### ショートカットキー
 
 +++
 
@@ -72,6 +76,7 @@
 - tab = 次
 - ⌘ + enter = 送信する・提出など
 - ⌘ + shift/option + ←,→ = タブの切り替え
+- ctrl + ←,→ = スクリーンの移動
 - ⌘ + w = タブを閉じる
 - ⌘ + q = アプリを閉じる
 - ⌘ + shift + 5 = スクリーンを録画
@@ -87,12 +92,12 @@ https://support.apple.com/ja-jp/HT201236
 #### Chrome
 @ul[](false)
 - ⌘ + リンクをクリック = 新しいタブを開く
+- option + ↑,↓ = スクロール
 - ⌘ + ←,→ = ページを戻る・次へ
 - ⌘ + option + ←,→ = タブの切り替え
-- ⌘ + shit + t = 閉じたタブを開く<small>シークレットモードで使えない</small>
-- アドレスバーにURLを入力 + ⌘ + shit + enter = 入力したURLで新しいタブが開く
+- ⌘ + shift + t = 閉じたタブを開く<small>シークレットモードで使えない</small>
 - ⌘ + l = アドレスバーをハイライト
-- option + ↑,↓ = スクロール
+- アドレスバーにURLを入力 <br>+ ⌘ + shit + enter = 入力したURLで新しいタブが開く
 @ulend
 
 +++
@@ -120,9 +125,9 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 
 #### Visual Code Studio (VCS)
 @ul[](false)
-- ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
 - ⌘ + p = ファイルを開くモードにする<small>同じファイルがある時注意! 特にwocker</small>
-- ⌘ + [ , ] = インデントを直す
+- ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
+- ⌘ + "[" , "]" = インデントを直す
 - option + z = ワードラップの切り替え
 - shift + option + ↑,↓ = 一行をコピペ
 - ctrl + shift + @ = ターミナルを開く
@@ -145,7 +150,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=52)
 
 ---
 
@@ -186,19 +191,23 @@ SPとPCを確認する段階になる。
 
 +++
 
+コードスニペット作ってみよう！
+
++++
+
 メリット：毎回同じことを書かなくてもいい<br>
 デメリット：スニペットを覚えること
 
 +++
 
 ### エラー解決ついて
-手順を決める
+手順を決める、例えば
 @ol
 - 深呼吸する
 - エラーを明確にする/分解する
 - ググる/誰かに聞く
 - テストする/やってみる　３回
-- 1から繰り返す（頑張れ！）
+- 1から繰り返す（リラックス）
 @olend
 
 +++
@@ -210,7 +219,7 @@ SPとPCを確認する段階になる。
 - 画面設置をミラーモードにする
 - プラグインやアプリを使う
 - 電話はヘッドセット(音響機器)を使う。
-- お客様に見せるワイヤーテンプレート
+- お客様用のワイヤーテンプレートを作る
 @ulend
 
 ---
@@ -219,7 +228,7 @@ SPとPCを確認する段階になる。
 
 +++
 
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+![Video](https://www.youtube.com/embed/BUnhLJO3Qj0?start=3)
 
 ---
 
