@@ -170,7 +170,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-これから緑の文字を呼んでください
+これから@color[#55D49E](緑の文字)を<br>読んでください。
 
 +++
 
