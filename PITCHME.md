@@ -44,15 +44,19 @@
 
 +++
 
-けれども、あえてコガないことにして<br>空気抵抗を減らすことでもっと早くなりました。
+けれども、あえてコガないことにして<br>空気抵抗を減らす「ワザ」もありました。
 
 +++
 
-この人は一生懸命コグより<br>賢くレースの先頭になりました。
+この人は一生懸命コグより<br><u>賢く</u>レースの先頭になりました。
 
 +++
 
-それと同じように作業のやり方を変えることで<br>早く仕事をできると思います。
+それと同じようにスキル(コグ速さ)を上達することは大切だけど
+
++++
+
+作業の<u>やり方を変える</u>ことで<br>早く仕事をできると思います。
 
 +++
 
@@ -72,13 +76,13 @@
 
 ### スピードを上げるための「ワザ」
 
----
++++
 
 ### ショートカットキー
 
 +++
 
-#### 基本・全体
+#### 基本・全体(mac)
 @ul[](false)
 - fn + backspace = カーソルの<u>右側</u>を消す
 - tab = 次
@@ -134,7 +138,7 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 @ul[](false)
 - ⌘ + p = ファイルを開くモードにする<small>同じファイルがある時注意! 特にwocker</small>
 - ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
-- ⌘ + "[" , "]" = インデントを直す
+- ⌘ + "[" , "]" = 行のどこからでもインデントを直す
 - option + z = ワードラップの切り替え
 - shift + option + ↑,↓ = 一行をコピペ
 - ctrl + shift + @ = ターミナルを開く
@@ -157,7 +161,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=45)
+![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=47)
 
 ---
 
