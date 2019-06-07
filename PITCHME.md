@@ -170,7 +170,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-Repeat after me<br><small>私の後に繰り返して</small>
+これから緑の文字を呼んでください
 
 +++
 
@@ -178,7 +178,7 @@ Repeat after me<br><small>私の後に繰り返して</small>
 
 +++
 
-## モバイルファースト！！！
+## @color[#55D49E](モバイルファースト！！！)
 
 +++
 
@@ -186,7 +186,7 @@ Repeat after me<br><small>私の後に繰り返して</small>
 
 +++
 
-## モバイルファースト！！！
+## @color[#55D49E](モバイルファースト！！！)
 
 +++
 
@@ -194,11 +194,11 @@ Repeat after me<br><small>私の後に繰り返して</small>
 
 +++
 
-## モバイルファースト！！！
+## @color[#55D49E](モバイルファースト！！！)
 
 +++
 
-子供の世話とトイレはモバイルにさーよならーー
+@color[#55D49E](子供の世話とトイレはモバイルにさーよならーー)
 
 +++
 
