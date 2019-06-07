@@ -206,7 +206,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-最初からモバイルに@color[#55D49E](集中)すると
+#### 最初からモバイルに@color[#55D49E](集中)する
 全体の流れが早くなる
 
 +++
