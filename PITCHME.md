@@ -112,6 +112,7 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 - ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
 - ⌘ + p = ファイルを開くモードにする<small>同じファイルがある時注意! 特にwocker</small>
 - ⌘ + [ , ] = インデントを直す
+- option + z = ワードラップの切り替え
 - shift + option + ↑,↓ = 一行をコピペ
 - ctrl + shift + @ = ターミナルを開く
 - ctrl + option + ⌘ + ¥  = 新しいターミナルを<br>コラムで開く
