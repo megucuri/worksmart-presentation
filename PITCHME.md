@@ -170,7 +170,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-これから@color[#55D49E](緑の文字)を<br>読んでください。
+これから出る@color[#55D49E](緑の太文字)を<br>元気よく読んでください。
 
 +++
 
