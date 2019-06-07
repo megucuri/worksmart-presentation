@@ -207,7 +207,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 +++
 
 #### 最初からモバイルに@color[#55D49E](集中)する
-全体の流れが早くなる
+それに全体の流れが早くなる
 
 +++
 
@@ -226,6 +226,8 @@ PCはレイアウトを広くすればいい
 SPとPCを確認する手段になるから。
 
 +++
+
+当たり前だから忘れるケースが多いから注意
 
 ### コードスニペット
 
@@ -302,7 +304,7 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-#### Dont' work hard, work smart.
+#### Don't work hard, work smart.
 <smnall>(一生懸命より賢く働こう)</small>
 
 +++
