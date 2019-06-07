@@ -170,7 +170,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-これから出る@color[#55D49E](緑の<strong>大文字</strong>)を<br>元気よく読んでください。
+これから出る@color[#55D49E](緑の<strong>太文字</strong>)を<br>元気よく読んでください。
 
 +++
 
@@ -198,7 +198,7 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 
 +++
 
-@color[#55D49E](子供の世話とトイレはモバイルにさーよならーー)
+@color[#55D49E](<strong>子供の世話とトイレはモバイルにさーよならーー</strong>)
 
 +++
 
