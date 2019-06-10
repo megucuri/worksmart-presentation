@@ -242,9 +242,10 @@ SPとPCを確認する手段になるから。
 VCSでコードスニペット作って、使ってみよう！
 
 +++
-highlight : mono-blue
 
 ```
+highlight : mono-blue
+
 "Print c-band wrapping c-row in c-container": {
 	"prefix": "band-container-row",
 	"body": ".c-band>.c-container>.c-row",
