@@ -244,17 +244,16 @@ VCSでコードスニペット作って、使ってみよう！
 +++
 
 ```
-highlight : mono-blue
-
-"Print c-band wrapping c-row in c-container": {
-	"prefix": "band-container-row",
-	"body": ".c-band>.c-container>.c-row",
-	"description": "Printing c-row wrapping c-row in c-container to html file"
+"c-band が c-row と c-container を囲むスニペット": { // スニペット名
+	"prefix": "band-container-row", // 呼び出すコマンド
+	"body": ".c-band>.c-container>.c-row", // はき出されるされるコード
+	"description": "htmlファイルにc-band が c-row と c-container を囲むを吐き出す" // スニペットの説明
 },
 ```
 @[1]
+@[2]
 @[3]
-@[5-7]
+@[4-5]
 
 +++
 
