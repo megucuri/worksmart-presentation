@@ -244,6 +244,14 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
+"Print c-band wrapping c-row in c-container": {
+		"prefix": "band-container-row",
+		"body": ".c-band>.c-container>.c-row",
+		"description": "Printing c-row wrapping c-row in c-container to html file"
+	},
+
++++
+
 メリット：毎回同じことを書かなくてもいい<br>
 デメリット：スニペットを覚えること
 
