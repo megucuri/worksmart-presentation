@@ -120,9 +120,8 @@ https://qiita.com/fantm21/items/430a1486132c8938ae1e
 
 #### Dev Tool
 @ul[](false)
-- ⌘ + option + i = dev toolを開く
+- ⌘ + shift + c = 各エレメントの検証モードdev toolを開く
 - ⌘ + shift + m = レスポンシブモードの切り替え
-- ⌘ + shift + c = 各エレメントの検証モード
 - ⌘ + ↑,↓= 100の位
 - shift + ↑,↓ = 10の位
 - option + ↑,↓ = 小数単位
