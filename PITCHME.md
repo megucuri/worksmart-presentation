@@ -10,7 +10,6 @@
 - トレーニング① (5分)
 - 手順について、コードスニペット、その他
 - トレーニング② (5分)
-- クールダウンヨガ (時間あれば15分)
 - まとめ
 @ulend
 
@@ -243,13 +242,13 @@ SPとPCを確認する手段になるから。
 VCSでコードスニペット作って、使ってみよう！
 
 +++
-
+```
 "Print c-band wrapping c-row in c-container": {
-		"prefix": "band-container-row",
-		"body": ".c-band>.c-container>.c-row",
-		"description": "Printing c-row wrapping c-row in c-container to html file"
-	},
-
+	"prefix": "band-container-row",
+	"body": ".c-band>.c-container>.c-row",
+	"description": "Printing c-row wrapping c-row in c-container to html file"
+},
+```
 +++
 
 メリット：毎回同じことを書かなくてもいい<br>
@@ -287,14 +286,6 @@ VCSでコードスニペット作って、使ってみよう！
 +++
 
 ![Video](https://www.youtube.com/embed/BUnhLJO3Qj0?start=31)
-
----
-
-## クールダウンヨガ
-
-+++
-
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
