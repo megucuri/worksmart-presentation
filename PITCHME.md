@@ -207,7 +207,8 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 @[1]
 @[2]
 @[3]
-@[4-5]
+@[4]
+@[5]
 @[1-5]
 
 ```
@@ -215,7 +216,7 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 	"prefix": "band-container-row", // 呼び出すコマンド
 	"body": ".c-band>.c-container>.c-row", // はき出されるされるコード
 	"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す" // スニペットの説明
-},
+}, // コマンドを閉じる「,」を忘れずに
 ```
 
 +++
