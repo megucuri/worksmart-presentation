@@ -6,7 +6,8 @@
 
 @ul[](false)
 - 注意
-- ショートカットキー、検索の精度を高める
+- 一番のロス
+- ショートカットキー
 - トレーニング① (5分)
 - コードスニペット、一言が多い「ワザ」
 - トレーニング② (5分)
@@ -27,7 +28,7 @@
 
 ---
 
-## 一番のロ ス
+## 一番のロス
 
 +++
 
@@ -79,7 +80,8 @@
 
 +++
 
-#### メニューから選択したい場合
+#### マウスとショートカットキーの違い
+例）メニューから選択したい場合
 
 +++
 ##### マウス
@@ -100,6 +102,14 @@
 - ⌘キーを長押し
 - そのほかのキーを押す
 @olend
+
++++
+
+ということはショートカットキーはマウスより早いか？
+
++++
+
+場合によります。その時に応じて判断してください。
 
 +++
 
@@ -170,12 +180,12 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 +++
 
 ##### VCS ショートカットキー
+
+###### Mac版
+https://qiita.com/naru0504/items/99495c4482cd158ddca8
+
+###### Win版
 https://qiita.com/12345/items/64f4372fbca041e949d0
-
-+++
-
-### Google検索の精度を高める
-https://support.google.com/websearch/answer/2466433?hl=ja
 
 ---
 
@@ -186,8 +196,6 @@ https://support.google.com/websearch/answer/2466433?hl=ja
 ![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=47)
 
 ---
-
-+++
 
 ### コードスニペット
 
@@ -214,7 +222,6 @@ VCSでコードスニペット作って、使ってみよう！
 	"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す" // スニペットの説明
 },
 ```
-
 
 +++
 
