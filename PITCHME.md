@@ -193,7 +193,7 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 
 +++
 
-![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=47)
+![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=110)
 
 ---
 
@@ -247,7 +247,7 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=110)
+![Video](https://www.youtube.com/embed/IpI5S4TCKNY?start=47)
 
 +++
 
