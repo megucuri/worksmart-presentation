@@ -78,9 +78,11 @@
 ### ショートカットキー
 
 +++
+@snap[north span-100%]
 #### メニューから選択したい場合
+@snapend
 
-@snap[west span-50]
+@snap[west span-50%]
 ##### マウス
 @ol
 - どのメニューがアイテムを持ってるか思い出す
@@ -93,7 +95,7 @@
 @olend
 @snapend
 
-@snap[east span-50]
+@snap[east span-50%]
 ##### キーボード
 @ol
 - コマンドを思い出す
