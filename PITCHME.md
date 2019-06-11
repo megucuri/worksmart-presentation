@@ -51,7 +51,7 @@
 
 +++
 
-作業(作業の流れ)の@color[#55D49E](やり方を変える)ことで<br>早く仕事をこなせると思います。
+作業(全体の流れ)の@color[#55D49E](やり方を変える)ことで<br>早く仕事をこなせると思います。
 
 +++
 
@@ -67,7 +67,7 @@
 
 +++
 
-![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=110)
+![Video](https://www.youtube.com/embed/BUnhLJO3Qj0?start=31)
 
 ---
 
@@ -191,11 +191,12 @@ VCSでコードスニペット作って、使ってみよう！
 @[3]
 @[4-5]
 @[1-5]
+
 ```
 "c-band が c-row と c-container を囲むスニペット": { // スニペット名
 	"prefix": "band-container-row", // 呼び出すコマンド
 	"body": ".c-band>.c-container>.c-row", // はき出されるされるコード
-	"description": "htmlファイルにc-band が c-row と c-container を囲むを吐き出す" // スニペットの説明
+	"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す" // スニペットの説明
 },
 ```
 
@@ -224,7 +225,11 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-![Video](https://www.youtube.com/embed/BUnhLJO3Qj0?start=31)
+![Video](https://www.youtube.com/embed/wDj4KZiPhPM?start=110)
+
++++
+
+やったね！隣の人にハイタッチ！
 
 ---
 
@@ -232,15 +237,19 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-@quote[問題を起こした(時の)思考と同じ発想では、問題は解けない。](アルバート　アインシュタイン)
+@quote[いかなる問題も、それをつくりだした同じ意識によって解決することはできません。](アルバート　アインシュタイン)
 
 +++
 
-同じ結果が出るやり方でやっても進まない
+同じ結果が出るやり方で進まないなら
 
 +++
 
-「いつもの」に疑問を思うことによって
+無理矢理でやるより
+
++++
+
+「いつもの」に対して疑問を思うことによって
 
 +++
 
