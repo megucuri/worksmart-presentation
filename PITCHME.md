@@ -45,7 +45,7 @@
 
 +++
 
-けれども、この動画では、むしろ空気抵抗を<br>減らすことで、スピードを出しました。
+けれどもこの動画では、むしろ空気抵抗を<br>減らすことで、スピードを出しました。
 
 +++
 
@@ -77,27 +77,27 @@
 
 ---
 
-# ショートカットキー
+## ショートカットキー
 
 +++
 
-#### マウスとショートカットキーの違い
+### マウスとショートカットキーの違い
 例: メニューから選択したい場合
 
 +++
-##### マウス
+#### マウス
 @ol
-- どのメニューがアイテムを持ってるか思い出す
-- メニューを探しす
+- どのメニューがアイテムが入ってるか思い出す
+- メニューを探す
 - カーソルをメニューに動かす
-- クリック
+- メニューをクリックする
 - アイテムを探す
 - カーソルをアイテムに動かす
 - アイテムをクリックする
 @olend
 +++
 
-##### キーボード
+#### キーボード
 @ol
 - コマンドを思い出す
 - ⌘キーを長押し
@@ -114,7 +114,7 @@
 
 +++
 
-#### 基本・全体(mac)
+### 基本・全体(mac)
 @ul[](false)
 - ⌘ + space = spotlightを開く(例：スラック)
 - fn + backspace = カーソルの<u>右から</u>消す
@@ -131,7 +131,7 @@ https://support.apple.com/ja-jp/HT201236
 
 +++
 
-#### Chrome
+### Chrome
 @ul[](false)
 - ⌘ + リンクをクリック = 新しいタブを開く
 - option + ↑,↓ = スクロール
@@ -142,12 +142,12 @@ https://support.apple.com/ja-jp/HT201236
 @ulend
 
 +++
-##### Chromeショートカットキー
+#### Chromeショートカットキー
 https://qiita.com/fantm21/items/430a1486132c8938ae1e
 
 +++
 
-#### Dev Tool
+### Dev Tool
 @ul[](false)
 - ⌘ + option + i = dev toolを開く・閉じる
 - ⌘ + shift + c = エレメントの検証モード
@@ -159,12 +159,12 @@ https://qiita.com/fantm21/items/430a1486132c8938ae1e
 
 +++
 
-##### Dev Toolショートカットキー
+#### Dev Toolショートカットキー
 https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 
 +++
 
-#### Visual Code Studio (VCS)
+### Visual Code Studio (VCS)
 @ul[](false)
 - ⌘ + p = ファイルを開くモードにする<small>同じファイルがある時注意! 特にwocker</small>
 - ⌘ + ctrl + ←,→ = 現在のタブをコラムにする
@@ -177,12 +177,12 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ja
 
 +++
 
-##### VCS ショートカットキー
+#### VCS ショートカットキー
 
-###### Mac版
+##### Mac版
 https://qiita.com/naru0504/items/99495c4482cd158ddca8
 
-###### Win版
+##### Win版
 https://qiita.com/12345/items/64f4372fbca041e949d0
 
 ---
@@ -195,11 +195,11 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 
 ---
 
-### コードスニペット
+## コードスニペット
 
 +++
 
-#### コードスニペットとは？
+### コードスニペットとは？
 普段使うモジュールのショートカット
 
 +++
@@ -277,7 +277,7 @@ VCSでコードスニペット作って、使ってみよう！
 
 +++
 
-#### Don't work hard, work smart.
+### Don't work hard, work smart.
 <small>(一生懸命より賢く働こう)</small>
 
 +++
