@@ -79,7 +79,12 @@
 
 +++
 
-
+@snap[west span-50]
+kdldf
+@snapend
+@snap[east span-50]
+kdldf
+@snapend
 
 +++
 
