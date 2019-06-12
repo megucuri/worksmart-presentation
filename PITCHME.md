@@ -14,10 +14,21 @@
 ```
 
 ```
-.p-mv{
-	background: red;
-	color: #fff;
-}
+"Print c-btn": {
+		"prefix": "btn",
+		"body": [
+			"a.c-btn"
+		],
+		"description": "Printing c-btn"
+	},
+
+	"Print c-btn target__blank": {
+		"prefix": "btn__blank",
+		"body": [
+			"a:blank.c-btn"
+		],
+		"description": "Printing c-btn target__blank"
+	},
 ```
 
 ---
