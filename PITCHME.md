@@ -1,16 +1,16 @@
-@[1](Go package main for executable command)
-@[2]
-@[3]
-@[4]
-@[5]
+@[1](スニペット名)
+@[2](呼び出すコマンド)
+@[3](はき出されるされるコード)
+@[4](スニペットの説明)
+@[5](コマンドを閉じる「,」コマンドを忘れずに)
 @[1-5]
 
 ```
-"c-bandがc-containerとc-rowを囲むスニペット": { // スニペット名
-	"prefix": "band-container-row", // 呼び出すコマンド
-	"body": ".c-band>.c-container>.c-row", // はき出されるされるコード
-	"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す" // スニペットの説明
-}, // コマンドを閉じる「,」を忘れずに
+"c-bandがc-containerとc-rowを囲むスニペット": { 
+	"prefix": "band-container-row",
+	"body": ".c-band>.c-container>.c-row",
+	"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す"
+},
 ```
 
 ---
