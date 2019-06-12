@@ -204,7 +204,7 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 
 +++
 ##### スニペットの書き方 (VCS)
-@[1](スニペット名、コマンドを始める「:　{ 」)
+@[1](スニペット名、コマンドを始める「:{ 」)
 @[2](スニペットを呼び出すコマンド)
 @[3](はき出されるされるコード)
 @[4](スニペットの説明)
@@ -212,7 +212,7 @@ https://qiita.com/12345/items/64f4372fbca041e949d0
 @[1-5]
 
 ```
-	"c-bandがc-containerとc-rowを囲むスニペット": { 
+	"c-bandがc-containerとc-rowを囲むスニペット":{ 
 		"prefix": "band-container-row",
 		"body": ".c-band>.c-container>.c-row",
 		"description": "htmlファイルに.c-band>.c-container>.c-rowをはき出す"
